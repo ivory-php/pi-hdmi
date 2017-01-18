@@ -1,0 +1,27 @@
+{
+	"name": "ivory-php/phphdmi",
+	"version": "0.1.0",
+	"type": "library",
+	"keywords": ["raspberry pi", "pi", "hdmi"],
+	"homepage": "https://ivory-php.github.io",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Ben Eckenroed",
+			"email": "ben@eckenroed.net",
+			"homepage": "http://www.punnyprogrammer.com",
+			"role": "developer"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/ivory-php/pi-hdmi/issues",
+		"wiki": "https://github.com/ivory-php/pi-hdmi/wiki",
+		"source": "https://github.com/ivory-php/pi-hdmi",
+		"docs": "https://ivory-php.github.io"
+	},
+	"autoload": {
+		"psr-4": {
+			"Ivory\\": "src/"
+		}
+	}
+}
