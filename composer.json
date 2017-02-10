@@ -1,6 +1,6 @@
 {
 	"name": "ivory-php/phphdmi",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "library",
 	"keywords": ["raspberry pi", "pi", "hdmi"],
 	"homepage": "https://ivory-php.github.io",
@@ -21,7 +21,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Ivory\\": "src/"
+			"Ivory\\": "src/Ivory/"
 		}
 	}
 }
